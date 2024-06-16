@@ -1,0 +1,6 @@
+C:\Users\othon\OneDrive\Documents\Senai\Trabalhos\Consultoria\bin\Debug\Consultoria.exe.config
+C:\Users\othon\OneDrive\Documents\Senai\Trabalhos\Consultoria\bin\Debug\Consultoria.exe
+C:\Users\othon\OneDrive\Documents\Senai\Trabalhos\Consultoria\bin\Debug\Consultoria.pdb
+C:\Users\othon\OneDrive\Documents\Senai\Trabalhos\Consultoria\obj\Debug\Consultoria.csprojResolveAssemblyReference.cache
+C:\Users\othon\OneDrive\Documents\Senai\Trabalhos\Consultoria\obj\Debug\Consultoria.exe
+C:\Users\othon\OneDrive\Documents\Senai\Trabalhos\Consultoria\obj\Debug\Consultoria.pdb
